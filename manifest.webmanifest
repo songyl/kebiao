@@ -1,0 +1,15 @@
+{
+  "name": "26本草研途课表",
+  "short_name": "课表",
+  "description": "2026-2027秋季学期 · 北京城市学院 · 生物医药学部",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f9",
+  "theme_color": "#2f6fd0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
